@@ -1,0 +1,10 @@
+# Simulation outputs
+build/
+*.vcd
+*.fst
+*.wlf
+*.jou
+*.log
+*.pb
+*.cache/
+xsim.dir/
